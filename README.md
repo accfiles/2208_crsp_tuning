@@ -1,3 +1,3 @@
 ## SQL Query Tuning
 
-Here we will share any additional files that need to be downloaded during class.
+Links will be shared in the [wiki pages](https://github.com/accfiles/2208_sql/wiki) for this class.
